@@ -10,5 +10,3 @@ Once you see the text rendered on your screen, kill the app (long swipe on iPhon
 Once you see everything is working fine, go ahead and generate an ios standalone build and submit to TestFlight. Even with a fully configured app and associated developer app account with certificates setup, the local notifications simply do not fire.
 
 Why?
-
-![why?](https://gph.is/1TlGpqG)
